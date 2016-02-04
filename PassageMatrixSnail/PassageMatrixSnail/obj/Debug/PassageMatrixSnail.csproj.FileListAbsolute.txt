@@ -1,0 +1,6 @@
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4-classes\PassageMatrixSnail\PassageMatrixSnail\bin\Debug\PassageMatrixSnail.exe.config
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4-classes\PassageMatrixSnail\PassageMatrixSnail\bin\Debug\PassageMatrixSnail.exe
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4-classes\PassageMatrixSnail\PassageMatrixSnail\bin\Debug\PassageMatrixSnail.pdb
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4-classes\PassageMatrixSnail\PassageMatrixSnail\obj\Debug\PassageMatrixSnail.csprojResolveAssemblyReference.cache
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4-classes\PassageMatrixSnail\PassageMatrixSnail\obj\Debug\PassageMatrixSnail.exe
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4-classes\PassageMatrixSnail\PassageMatrixSnail\obj\Debug\PassageMatrixSnail.pdb
